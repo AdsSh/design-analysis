@@ -1,0 +1,5 @@
+{
+  "name": "DesignAnalyzer AI",
+  "description": "A professional-grade UI/UX design analysis tool powered by Gemini 2.5 Flash. Upload interface designs to receive instant structured critiques, color palette extraction, and typography analysis.",
+  "requestFramePermissions": []
+}
